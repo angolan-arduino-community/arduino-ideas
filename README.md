@@ -1,2 +1,2 @@
-# arduino Ideas
+# Arduino Ideas
 Arduino Ideas
