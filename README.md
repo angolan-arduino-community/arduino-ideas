@@ -1,15 +1,6 @@
-# Arduino Ideas
+# Arduino Project Ideas
 
-<p>Arduino Ideas - Projetos Com Arduinos</p>
-<ul>
-	<li>Hello World - Blynk LED</li>
-	<li>2</li>
-	<li>3</li>
-	<li>4</li>
-	<li>5</li>
-	<li>6</li>
-	<li>7</li>
-</ul>
+<p><span style="font-size: 200%;">W</span>elcome to the world of Arduino innovation! Our repository is a treasure trove of project ideas carefully curated for all skill levels, from absolute beginners to seasoned enthusiasts.</p>
 
 ## Projects Level
 
