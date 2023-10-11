@@ -40,16 +40,24 @@
 		</td>
 		<td>
 			<table>
-				<tr><td>Description A1</td></tr>
-				<tr><td>Description A1</td></tr>
-				<tr><td>Description A1</td></tr>
-				<tr><td>Description A1</td></tr>
+				<tr>
+					<ul>
+						<li>1</li>
+						<li>1</li>
+						<li>1</li>
+						<li>1</li>
+					</ul>
+				</tr>
 			</table>
 			<table>
-				<tr><td>Description A2</td></tr>
-				<tr><td>Description A2</td></tr>
-				<tr><td>Description A2</td></tr>
-				<tr><td>Description A2</td></tr>
+				<tr>
+					<ul>
+						<li>2</li>
+						<li>2</li>
+						<li>2</li>
+						<li>2</li>
+					</ul>
+				</tr>
 			</table>
 		</td>
 	</tr>
