@@ -1,6 +1,8 @@
 # Arduino Project Ideas
 
-<p><span style="font-size: 200%;">W</span>elcome to the world of Arduino innovation! Our repository is a treasure trove of project ideas carefully curated for all skill levels, from absolute beginners to seasoned enthusiasts.</p>
+<p>Welcome to the World of Arduino Innovation (W.A.I.)! Our repository is a treasure trove of project ideas carefully curated for all skill levels, from absolute beginners to seasoned enthusiasts.</p>
+
+<p>Whether you're a Novice, an Enthusiast, or an Arduino Pro, our repository is your Go-to source for exciting, educational, and hands-on projects. Join our community of makers, tinkerers, and inventors, and let's embark on an Arduino adventure together. Your journey through the tiers of knowledge begins here!"</p>
 
 ## Projects Level
 
