@@ -30,12 +30,10 @@
 		<td>A</td>
 		<td>
 			<table>
-				<tr>
-					<td>A1</td>
-				</tr>
-				<tr>
-					<td>A2</td>
-				</tr>
+				<tr>A1</tr>
+			</table>
+			<table>
+				<tr>A2</tr>
 			</table>
 		</td>
 		<td>
@@ -58,60 +56,6 @@
 						<li>2</li>
 					</ul>
 				</tr>
-			</table>
-		</td>
-	</tr>
-	<tr>
-		<td>B</td>
-		<td>
-			<table>
-				<tr>
-					<td>B1</td>
-				</tr>
-				<tr>
-					<td>B2</td>
-				</tr>
-			</table>
-		</td>
-		<td>
-			<table>
-				<tr><td>Description B1</td></tr>
-				<tr><td>Description B1</td></tr>
-				<tr><td>Description B1</td></tr>
-				<tr><td>Description B1</td></tr>
-			</table>
-			<table>
-				<tr><td>Description B2</td></tr>
-				<tr><td>Description B2</td></tr>
-				<tr><td>Description B2</td></tr>
-				<tr><td>Description B2</td></tr>
-			</table>
-		</td>
-	</tr>
-	<tr>
-		<td>C</td>
-		<td>
-			<table>
-				<tr>
-					<td>C1</td>
-				</tr>
-				<tr>
-					<td>C2</td>
-				</tr>
-			</table>
-		</td>
-		<td>
-			<table>
-				<tr><td>Description C1</td></tr>
-				<tr><td>Description C1</td></tr>
-				<tr><td>Description C1</td></tr>
-				<tr><td>Description C1</td></tr>
-			</table>
-			<table>
-				<tr><td>Description C2</td></tr>
-				<tr><td>Description C2</td></tr>
-				<tr><td>Description C2</td></tr>
-				<tr><td>Description C2</td></tr>
 			</table>
 		</td>
 	</tr>
